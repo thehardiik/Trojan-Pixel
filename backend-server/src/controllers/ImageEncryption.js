@@ -4,7 +4,7 @@ const Jimp = require("jimp");
 
 
 
-const cipher = crypto.createCipheriv(algorithm, key, iv);
+
 
 async function ImageEncryption (name, message) {
 
