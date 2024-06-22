@@ -37,23 +37,23 @@ npm run start
 cd Trojan-Pixel
 ```
 
-3. Navigate to the client directory
+7. Navigate to the client directory
 
 ```
 cd client
 ```
 
-4. Install Dependencies
+8. Install Dependencies
 
 ```
 npm install
 ```
 
-5. Start the client:
+9. Start the client:
 
 ```
 npm run dev
 ```
 
-6. Access the application in your browser 
+10. Access the application in your browser 
 
